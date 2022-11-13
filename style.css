@@ -37,29 +37,27 @@ p{
     text-align: center;
     margin: auto;
     font-family: 'poppins', sans-serif;
+    margin-bottom: 40px;
 }
 
 
 
 input{
     font-family: 'poppins', sans-serif;
+    display: flex;
    align-items: center;
+   margin: auto;
     border: 0;
     border-radius: 12px;
     padding: 12px;
     width: 400px;
-    margin-bottom: 20px;
-}
-
-.container{
-    width: 100%;
-    margin-left: 19%;
-    justify-content: center;
-    align-items: center;
+    margin-bottom: 10px;
 }
 
 button{
+    display: flex;
     align-items: center;
+    margin: auto;
     justify-content: center;
     padding: 15px;
     border-radius: 13px;
@@ -68,7 +66,7 @@ button{
     font-size: 17px;
     font-family: 'poppins', sans-serif;
     border: 0;
-    margin-left: 78px;
+
 }
 
 
