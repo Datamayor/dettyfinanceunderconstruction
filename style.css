@@ -13,6 +13,12 @@ body{
     align-items: center;
 }
 
+.dettylogo{
+    width: 160px;
+    position: absolute;
+    top: 10px;
+}
+
 div{
     width: 100%;
     margin: auto;
@@ -85,6 +91,25 @@ button:hover{
 
     p{
         font-size: 0.9rem;
+        margin-bottom: 15px;
+    }
+
+    input{
+        border-radius: 12px;
+        font-size: 6px;
+        padding: 16px;
+        height: 30px;
+        width: 200px;
+        margin-bottom: 10px;
+    }
+    
+    button{
+        width: 140px;
+        height: 15px;
+        font-size: 20px;
+        padding: 15px;
+        border-radius: 7px;
+        font-size: 7px;
     }
   }
   
